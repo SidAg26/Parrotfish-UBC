@@ -1,0 +1,13 @@
+{
+    "function_name": "workbench-matmul",
+    "vendor": "AWS",
+    "region": "ap-southeast-2",
+    "memory_bounds": [
+        128,
+        1024
+    ],
+    "min_sample_per_config": 2,
+    "payload": {
+        "n": 10
+    }
+}
