@@ -1,5 +1,5 @@
 {
-    "function_name": "sebs-graph-bfs",
+    "function_name": "sebs-graph-mst",
     "vendor": "AWS",
     "region": "ap-southeast-2",
     "memory_bounds": [

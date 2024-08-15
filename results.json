@@ -1,0 +1,602 @@
+[
+    {
+        "payload": {
+            "n": 10
+        },
+        "result": "Optimization result: 128.0 MB"
+    },
+    {
+        "payload": {
+            "n": 110
+        },
+        "result": "Optimization result: 290.0 MB"
+    },
+    {
+        "payload": {
+            "n": 210
+        },
+        "result": "Optimization result: 539.0 MB"
+    },
+    {
+        "payload": {
+            "n": 310
+        },
+        "result": "Optimization result: 878.0 MB"
+    },
+    {
+        "payload": {
+            "n": 410
+        },
+        "result": "Optimization result: 1123.0 MB"
+    },
+    {
+        "payload": {
+            "n": 510
+        },
+        "result": "Optimization result: 1283.0 MB"
+    },
+    {
+        "payload": {
+            "n": 610
+        },
+        "result": "Optimization result: 1229.0 MB"
+    },
+    {
+        "payload": {
+            "n": 710
+        },
+        "result": "Optimization result: 1130.0 MB"
+    },
+    {
+        "payload": {
+            "n": 810
+        },
+        "result": "Optimization result: 1202.0 MB"
+    },
+    {
+        "payload": {
+            "n": 910
+        },
+        "result": "Optimization result: 1180.0 MB"
+    },
+    {
+        "payload": {
+            "n": 1010
+        },
+        "result": "Optimization result: 1196.0 MB"
+    },
+    {
+        "payload": {
+            "n": 1110
+        },
+        "result": "Optimization result: 1183.0 MB"
+    },
+    {
+        "payload": {
+            "n": 1210
+        },
+        "result": "Optimization result: 1144.0 MB"
+    },
+    {
+        "payload": {
+            "n": 1310
+        },
+        "result": "Optimization result: 1218.0 MB"
+    },
+    {
+        "payload": {
+            "n": 1410
+        },
+        "result": "Optimization result: 128.0 MB"
+    },
+    {
+        "payload": {
+            "n": 1510
+        },
+        "result": "Optimization result: 128.0 MB"
+    },
+    {
+        "payload": {
+            "n": 1610
+        },
+        "result": "Optimization result: 128.0 MB"
+    },
+    {
+        "payload": {
+            "n": 1710
+        },
+        "result": "Optimization result: 128.0 MB"
+    },
+    {
+        "payload": {
+            "n": 1810
+        },
+        "result": "Optimization result: 128.0 MB"
+    },
+    {
+        "payload": {
+            "n": 1910
+        },
+        "result": "Optimization result: 128.0 MB"
+    },
+    {
+        "payload": {
+            "n": 2010
+        },
+        "result": "Optimization result: 128.0 MB"
+    },
+    {
+        "payload": {
+            "n": 2110
+        },
+        "result": "Optimization result: 128.0 MB"
+    },
+    {
+        "payload": {
+            "n": 2210
+        },
+        "result": "Optimization result: 128.0 MB"
+    },
+    {
+        "payload": {
+            "n": 2310
+        },
+        "result": "Optimization result: 128.0 MB"
+    },
+    {
+        "payload": {
+            "n": 2410
+        },
+        "result": "Optimization result: 1472.0 MB"
+    },
+    {
+        "payload": {
+            "n": 2510
+        },
+        "result": "Optimization result: 1431.0 MB"
+    },
+    {
+        "payload": {
+            "n": 2610
+        },
+        "result": "Optimization result: 1442.0 MB"
+    },
+    {
+        "payload": {
+            "n": 2710
+        },
+        "result": "Optimization result: 205.0 MB"
+    },
+    {
+        "payload": {
+            "n": 2810
+        },
+        "result": "Optimization result: 246.0 MB"
+    },
+    {
+        "payload": {
+            "n": 2910
+        },
+        "result": "Optimization result: 1497.0 MB"
+    },
+    {
+        "payload": {
+            "n": 3010
+        },
+        "result": "Optimization result: 1701.0 MB"
+    },
+    {
+        "payload": {
+            "n": 3110
+        },
+        "result": "Optimization result: 1671.0 MB"
+    },
+    {
+        "payload": {
+            "n": 3210
+        },
+        "result": "Optimization result: 1459.0 MB"
+    },
+    {
+        "payload": {
+            "n": 3310
+        },
+        "result": "Optimization result: 1778.0 MB"
+    },
+    {
+        "payload": {
+            "n": 3410
+        },
+        "result": "Optimization result: 1833.0 MB"
+    },
+    {
+        "payload": {
+            "n": 3510
+        },
+        "result": "Optimization result: 1870.0 MB"
+    },
+    {
+        "payload": {
+            "n": 3610
+        },
+        "result": "Optimization result: 1815.0 MB"
+    },
+    {
+        "payload": {
+            "n": 3710
+        },
+        "result": "Optimization result: 1948.0 MB"
+    },
+    {
+        "payload": {
+            "n": 3810
+        },
+        "result": "Optimization result: 1841.0 MB"
+    },
+    {
+        "payload": {
+            "n": 3910
+        },
+        "result": "Optimization result: 1787.0 MB"
+    },
+    {
+        "payload": {
+            "n": 4010
+        },
+        "result": "Optimization result: 1892.0 MB"
+    },
+    {
+        "payload": {
+            "n": 4110
+        },
+        "result": "Optimization result: 2047.0 MB"
+    },
+    {
+        "payload": {
+            "n": 4210
+        },
+        "result": "Optimization result: 1953.0 MB"
+    },
+    {
+        "payload": {
+            "n": 4310
+        },
+        "result": "Optimization result: 1746.0 MB"
+    },
+    {
+        "payload": {
+            "n": 4410
+        },
+        "result": "Optimization result: 2012.0 MB"
+    },
+    {
+        "payload": {
+            "n": 4510
+        },
+        "result": "Optimization result: 1974.0 MB"
+    },
+    {
+        "payload": {
+            "n": 4610
+        },
+        "result": "Optimization result: 1945.0 MB"
+    },
+    {
+        "payload": {
+            "n": 4710
+        },
+        "result": "Optimization result: 1770.0 MB"
+    },
+    {
+        "payload": {
+            "n": 4810
+        },
+        "result": "Optimization result: 1875.0 MB"
+    },
+    {
+        "payload": {
+            "n": 4910
+        },
+        "result": "Optimization result: 2101.0 MB"
+    },
+    {
+        "payload": {
+            "n": 5010
+        },
+        "result": "Optimization result: 2102.0 MB"
+    },
+    {
+        "payload": {
+            "n": 5110
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 5210
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 5310
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 5410
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 5510
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 5610
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 5710
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 5810
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 5910
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 6010
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 6110
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 6210
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 6310
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 6410
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 6510
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 6610
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 6710
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 6810
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 6910
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 7010
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 7110
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 7210
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 7310
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 7410
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 7510
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 7610
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 7710
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 7810
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 7910
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 8010
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 8110
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 8210
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 8310
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 8410
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 8510
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 8610
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 8710
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 8810
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 8910
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 9010
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 9110
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 9210
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 9310
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 9410
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 9510
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 9610
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 9710
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 9810
+        },
+        "result": ""
+    },
+    {
+        "payload": {
+            "n": 9910
+        },
+        "result": ""
+    }
+]

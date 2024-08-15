@@ -2,9 +2,9 @@ import json
 import subprocess
 
 # Path to the configuration file
-config_file_path = './config.json'
+config_file_path = './config-graph-mst.json'
 # Path to the results file
-results_file_path = './results-graph-bfs.json'
+results_file_path = './results-graph-mst.json'
 
 # Function to update the payload in the configuration file
 def update_config(payload):
