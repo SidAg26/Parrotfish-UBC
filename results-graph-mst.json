@@ -466,5 +466,110 @@
             "n": 7710
         },
         "result": "Optimization result: 128 MB"
+    },
+    {
+        "payload": {
+            "n": 1304
+        },
+        "result": "Optimization result: 1414.0 MB",
+        "processing_time": 61.77136564254761
+    },
+    {
+        "payload": {
+            "n": 1815
+        },
+        "result": "Optimization result: 1501.0 MB",
+        "processing_time": 77.93778038024902
+    },
+    {
+        "payload": {
+            "n": 2394
+        },
+        "result": "Optimization result: 1501.0 MB",
+        "processing_time": 110.84963655471802
+    },
+    {
+        "payload": {
+            "n": 4046
+        },
+        "result": "Optimization result: 1517.0 MB",
+        "processing_time": 120.82121729850769
+    },
+    {
+        "payload": {
+            "n": 1716
+        },
+        "result": "Optimization result: 1969.0 MB",
+        "processing_time": 69.96330404281616
+    },
+    {
+        "payload": {
+            "n": 3665
+        },
+        "result": "Optimization result: 575.0 MB",
+        "processing_time": 113.44754385948181
+    },
+    {
+        "payload": {
+            "n": 1890
+        },
+        "result": "Optimization result: 1444.0 MB",
+        "processing_time": 79.01166939735413
+    },
+    {
+        "payload": {
+            "n": 2366
+        },
+        "result": "Optimization result: 2323.0 MB",
+        "processing_time": 90.31224036216736
+    },
+    {
+        "payload": {
+            "n": 4168
+        },
+        "result": "Optimization result: 847.0 MB",
+        "processing_time": 191.94920897483826
+    },
+    {
+        "payload": {
+            "n": 2569
+        },
+        "result": "Optimization result: 1748.0 MB",
+        "processing_time": 101.24475026130676
+    },
+    {
+        "payload": {
+            "n": 7111
+        },
+        "result": "Optimization result: 2137.0 MB",
+        "processing_time": 166.61437106132507
+    },
+    {
+        "payload": {
+            "n": 4038
+        },
+        "result": "Optimization result: 2395.0 MB",
+        "processing_time": 132.94327473640442
+    },
+    {
+        "payload": {
+            "n": 3342
+        },
+        "result": "Optimization result: 1503.0 MB",
+        "processing_time": 109.66062307357788
+    },
+    {
+        "payload": {
+            "n": 1303
+        },
+        "result": "Optimization result: 2269.0 MB",
+        "processing_time": 58.07112383842468
+    },
+    {
+        "payload": {
+            "n": 6073
+        },
+        "result": "Optimization result: 1734.0 MB",
+        "processing_time": 146.82076144218445
     }
 ]
