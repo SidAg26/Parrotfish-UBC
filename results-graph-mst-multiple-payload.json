@@ -1,0 +1,102 @@
+[
+    {
+        "payload": [
+            {
+                "n": 1304
+            },
+            {
+                "n": 1815
+            },
+            {
+                "n": 2394
+            },
+            {
+                "n": 4046
+            },
+            {
+                "n": 1716
+            }
+        ],
+        "result": "Explorations for payload 1:\nExplorations for payload 2:\nExplorations for payload 3:\nExplorations for payload 4:\nExplorations for payload 5:\nOptimization result for payload 0: 1461.0 MB\nOptimization result for payload 1: 1916.0 MB\nOptimization result for payload 2: 1529.0 MB\nOptimization result for payload 3: 1903.0 MB\nOptimization result for payload 4: 1440.0 MB\nOptimization result of the average cost: 3008 MB"
+    },
+    {
+        "payload": [
+            {
+                "n": 3665
+            },
+            {
+                "n": 1890
+            },
+            {
+                "n": 2366
+            },
+            {
+                "n": 4168
+            },
+            {
+                "n": 2569
+            }
+        ],
+        "result": "Explorations for payload 1:\nExplorations for payload 2:\nExplorations for payload 3:\nExplorations for payload 4:\nExplorations for payload 5:\nOptimization result for payload 0: 581.0 MB\nOptimization result for payload 1: 1538.0 MB\nOptimization result for payload 2: 1591.0 MB\nOptimization result for payload 3: 1665.0 MB\nOptimization result for payload 4: 1466.0 MB\nOptimization result of the average cost: 3008 MB"
+    },
+    {
+        "payload": [
+            {
+                "n": 7111
+            },
+            {
+                "n": 4038
+            },
+            {
+                "n": 3342
+            },
+            {
+                "n": 1303
+            },
+            {
+                "n": 6073
+            }
+        ],
+        "result": "Explorations for payload 1:\nExplorations for payload 2:\nExplorations for payload 3:\nExplorations for payload 4:\nExplorations for payload 5:"
+    },
+    {
+        "payload": [
+            {
+                "n": 7816
+            },
+            {
+                "n": 580
+            },
+            {
+                "n": 7327
+            },
+            {
+                "n": 6423
+            },
+            {
+                "n": 4650
+            }
+        ],
+        "result": ""
+    },
+    {
+        "payload": [
+            {
+                "n": 2932
+            },
+            {
+                "n": 5322
+            },
+            {
+                "n": 6475
+            },
+            {
+                "n": 6068
+            },
+            {
+                "n": 6049
+            }
+        ],
+        "result": ""
+    }
+]

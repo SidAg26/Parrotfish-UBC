@@ -1,0 +1,199 @@
+[
+    {
+        "payload": [
+            {
+                "n": 5062
+            },
+            {
+                "n": 484
+            },
+            {
+                "n": 4712
+            },
+            {
+                "n": 246
+            },
+            {
+                "n": 7322
+            }
+        ],
+        "result": "Explorations for payload 1:\nExplorations for payload 2:\nExplorations for payload 3:"
+    },
+    {
+        "payload": [
+            {
+                "n": 2128
+            },
+            {
+                "n": 6326
+            },
+            {
+                "n": 4703
+            },
+            {
+                "n": 1325
+            },
+            {
+                "n": 6488
+            }
+        ],
+        "result": "Explorations for payload 1:\nExplorations for payload 2:\nExplorations for payload 3:\nExplorations for payload 4:\nExplorations for payload 5:\nOptimization result for payload 0: 2148.0 MB\nOptimization result for payload 1: 1926.0 MB\nOptimization result for payload 2: 1718.0 MB\nOptimization result for payload 3: 2215.0 MB\nOptimization result for payload 4: 1927.0 MB\nOptimization result of the average cost: 3008 MB"
+    },
+    {
+        "payload": [
+            {
+                "n": 3991
+            },
+            {
+                "n": 7539
+            },
+            {
+                "n": 3540
+            },
+            {
+                "n": 2369
+            },
+            {
+                "n": 3604
+            }
+        ],
+        "result": "Explorations for payload 1:"
+    },
+    {
+        "payload": [
+            {
+                "n": 3924
+            },
+            {
+                "n": 563
+            },
+            {
+                "n": 1494
+            },
+            {
+                "n": 1321
+            },
+            {
+                "n": 239
+            }
+        ],
+        "result": "Explorations for payload 1:\nExplorations for payload 2:\nExplorations for payload 3:\nExplorations for payload 4:\nExplorations for payload 5:\nOptimization result for payload 0: 2651.0 MB\nOptimization result for payload 1: 1452.0 MB\nOptimization result for payload 2: 1481.0 MB\nOptimization result for payload 3: 1585.0 MB\nOptimization result for payload 4: 128.0 MB\nOptimization result of the average cost: 3008 MB"
+    },
+    {
+        "payload": [
+            {
+                "n": 7473
+            },
+            {
+                "n": 6783
+            },
+            {
+                "n": 5586
+            },
+            {
+                "n": 1462
+            },
+            {
+                "n": 2257
+            }
+        ],
+        "result": "Explorations for payload 1:\nExplorations for payload 2:\nExplorations for payload 3:\nExplorations for payload 4:\nExplorations for payload 5:\nOptimization result for payload 0: 2184.0 MB\nOptimization result for payload 1: 2750.0 MB\nOptimization result for payload 2: 1876.0 MB\nOptimization result for payload 3: 1462.0 MB\nOptimization result for payload 4: 1547.0 MB\nOptimization result of the average cost: 3008 MB"
+    },
+    {
+        "payload": [
+            {
+                "n": 805
+            },
+            {
+                "n": 3977
+            },
+            {
+                "n": 5490
+            },
+            {
+                "n": 3728
+            },
+            {
+                "n": 530
+            }
+        ],
+        "result": "Explorations for payload 1:\nExplorations for payload 2:\nExplorations for payload 3:\nExplorations for payload 4:\nExplorations for payload 5:\nOptimization result for payload 0: 1485.0 MB\nOptimization result for payload 1: 2673.0 MB\nOptimization result for payload 2: 1889.0 MB\nOptimization result for payload 3: 1817.0 MB\nOptimization result for payload 4: 1340.0 MB\nOptimization result of the average cost: 3008 MB"
+    },
+    {
+        "payload": [
+            {
+                "n": 6191
+            },
+            {
+                "n": 3948
+            },
+            {
+                "n": 7625
+            },
+            {
+                "n": 960
+            },
+            {
+                "n": 2363
+            }
+        ],
+        "result": "Explorations for payload 1:\nExplorations for payload 2:\nExplorations for payload 3:\nExplorations for payload 4:\nExplorations for payload 5:\nOptimization result for payload 0: 1923.0 MB\nOptimization result for payload 1: 1721.0 MB\nOptimization result for payload 2: 2929.0 MB\nOptimization result for payload 3: 1377.0 MB\nOptimization result for payload 4: 1452.0 MB\nOptimization result of the average cost: 3008 MB"
+    },
+    {
+        "payload": [
+            {
+                "n": 5431
+            },
+            {
+                "n": 1373
+            },
+            {
+                "n": 5217
+            },
+            {
+                "n": 2865
+            },
+            {
+                "n": 2219
+            }
+        ],
+        "result": "Explorations for payload 1:\nExplorations for payload 2:\nExplorations for payload 3:\nExplorations for payload 4:\nExplorations for payload 5:\nOptimization result for payload 0: 1756.0 MB\nOptimization result for payload 1: 1562.0 MB\nOptimization result for payload 2: 2108.0 MB\nOptimization result for payload 3: 1546.0 MB\nOptimization result for payload 4: 1567.0 MB\nOptimization result of the average cost: 3008 MB"
+    },
+    {
+        "payload": [
+            {
+                "n": 7255
+            },
+            {
+                "n": 4199
+            },
+            {
+                "n": 4578
+            },
+            {
+                "n": 1530
+            },
+            {
+                "n": 7769
+            }
+        ],
+        "result": "Explorations for payload 1:\nExplorations for payload 2:\nExplorations for payload 3:\nExplorations for payload 4:\nExplorations for payload 5:\nOptimization result for payload 0: 2090.0 MB\nOptimization result for payload 1: 2201.0 MB\nOptimization result for payload 2: 1983.0 MB\nOptimization result for payload 3: 1515.0 MB\nOptimization result for payload 4: 3008.0 MB\nOptimization result of the average cost: 3008 MB"
+    },
+    {
+        "payload": [
+            {
+                "n": 6852
+            },
+            {
+                "n": 6502
+            },
+            {
+                "n": 973
+            },
+            {
+                "n": 8695
+            }
+        ],
+        "result": ""
+    }
+]
