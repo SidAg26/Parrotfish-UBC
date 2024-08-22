@@ -3,606 +3,6 @@
         "payload": {
             "n": 10
         },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 110
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 210
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 310
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 410
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 510
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 610
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 710
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 810
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 910
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 1010
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 1110
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 1210
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 1310
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 1410
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 1510
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 1610
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 1710
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 1810
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 1910
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 2010
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 2110
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 2210
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 2310
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 2410
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 2510
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 2610
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 2710
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 2810
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 2910
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 3010
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 3110
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 3210
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 3310
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 3410
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 3510
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 3610
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 3710
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 3810
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 3910
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 4010
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 4110
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 4210
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 4310
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 4410
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 4510
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 4610
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 4710
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 4810
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 4910
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 5010
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 5110
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 5210
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 5310
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 5410
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 5510
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 5610
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 5710
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 5810
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 5910
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 6010
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 6110
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 6210
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 6310
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 6410
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 6510
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 6610
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 6710
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 6810
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 6910
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 7010
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 7110
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 7210
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 7310
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 7410
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 7510
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 7610
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 7710
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 7810
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 7910
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 8010
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 8110
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 8210
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 8310
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 8410
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 8510
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 8610
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 8710
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 8810
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 8910
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 9010
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 9110
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 9210
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 9310
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 9410
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 9510
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 9610
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 9710
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 9810
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 9910
-        },
-        "result": ""
-    },
-    {
-        "payload": {
-            "n": 10
-        },
         "result": "Optimization result: 128.0 MB"
     },
     {
@@ -1066,5 +466,145 @@
             "n": 7710
         },
         "result": "Optimization result: 128 MB"
+    },
+    {
+        "payload": {
+            "n": 5062
+        },
+        "result": "",
+        "processing_time": 81.37478756904602
+    },
+    {
+        "payload": {
+            "n": 484
+        },
+        "result": "Optimization result: 1185.0 MB",
+        "processing_time": 50.92481088638306
+    },
+    {
+        "payload": {
+            "n": 4712
+        },
+        "result": "Optimization result: 1437.0 MB",
+        "processing_time": 139.5525999069214
+    },
+    {
+        "payload": {
+            "n": 246
+        },
+        "result": "Optimization result: 138.0 MB",
+        "processing_time": 44.79237151145935
+    },
+    {
+        "payload": {
+            "n": 7322
+        },
+        "result": "Optimization result: 2146.0 MB",
+        "processing_time": 211.1811182498932
+    },
+    {
+        "payload": {
+            "n": 2128
+        },
+        "result": "Optimization result: 1455.0 MB",
+        "processing_time": 82.12495541572571
+    },
+    {
+        "payload": {
+            "n": 6326
+        },
+        "result": "Optimization result: 1935.0 MB",
+        "processing_time": 149.3352780342102
+    },
+    {
+        "payload": {
+            "n": 4703
+        },
+        "result": "",
+        "processing_time": 140.03686666488647
+    },
+    {
+        "payload": {
+            "n": 1325
+        },
+        "result": "Optimization result: 1540.0 MB",
+        "processing_time": 59.111729860305786
+    },
+    {
+        "payload": {
+            "n": 6488
+        },
+        "result": "",
+        "processing_time": 100.62010622024536
+    },
+    {
+        "payload": {
+            "n": 3991
+        },
+        "result": "Optimization result: 1915.0 MB",
+        "processing_time": 129.7704131603241
+    },
+    {
+        "payload": {
+            "n": 7539
+        },
+        "result": "Optimization result: 2223.0 MB",
+        "processing_time": 189.60376286506653
+    },
+    {
+        "payload": {
+            "n": 3540
+        },
+        "result": "Optimization result: 1775.0 MB",
+        "processing_time": 110.21551752090454
+    },
+    {
+        "payload": {
+            "n": 2369
+        },
+        "result": "Optimization result: 1369.0 MB",
+        "processing_time": 89.45184254646301
+    },
+    {
+        "payload": {
+            "n": 3604
+        },
+        "result": "Optimization result: 2642.0 MB",
+        "processing_time": 121.65570831298828
+    },
+    {
+        "payload": {
+            "n": 3924
+        },
+        "result": "Optimization result: 1875.0 MB",
+        "processing_time": 115.8169014453888
+    },
+    {
+        "payload": {
+            "n": 563
+        },
+        "result": "Optimization result: 1204.0 MB",
+        "processing_time": 47.79557776451111
+    },
+    {
+        "payload": {
+            "n": 1494
+        },
+        "result": "Optimization result: 1597.0 MB",
+        "processing_time": 62.363192319869995
+    },
+    {
+        "payload": {
+            "n": 1321
+        },
+        "result": "Optimization result: 1893.0 MB",
+        "processing_time": 57.70769190788269
+    },
+    {
+        "payload": {
+            "n": 239
+        },
+        "result": "Optimization result: 139.0 MB",
+        "processing_time": 41.77090668678284
     }
 ]
