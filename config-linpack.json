@@ -15,36 +15,7 @@
         "max_sample_per_config": 5,
         "coefficient_of_variation_threshold": 0.05
     },
-    "payloads": [
-        {
-            "payload": {
-                "n": 4570
-            },
-            "weight": 0.2
-        },
-        {
-            "payload": {
-                "n": 309
-            },
-            "weight": 0.2
-        },
-        {
-            "payload": {
-                "n": 7087
-            },
-            "weight": 0.2
-        },
-        {
-            "payload": {
-                "n": 4746
-            },
-            "weight": 0.2
-        },
-        {
-            "payload": {
-                "n": 3871
-            },
-            "weight": 0.2
-        }
-    ]
+    "payload": {
+        "n": 2820
+    }
 }
