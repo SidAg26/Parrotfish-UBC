@@ -1,0 +1,21 @@
+{
+    "function_name": "sebs-dynamic-html",
+    "vendor": "AWS",
+    "region": "ap-southeast-2",
+    "memory_bounds": [
+        128,
+        3008
+    ],
+    "min_sample_per_config": 2,
+    "max_total_sample_count": 10,
+    "max_number_of_invocation_attempts": 1,
+    "constraint_execution_time_threshold": 114,
+    "constraint_cost_tolerance_percent": 10,
+    "dynamic_sampling_params": {
+        "max_sample_per_config": 5,
+        "coefficient_of_variation_threshold": 0.05
+    },
+    "payload": {
+        "n": 2144
+    }
+}

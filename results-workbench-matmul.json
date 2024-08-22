@@ -1,0 +1,142 @@
+[
+    {
+        "payload": {
+            "n": 3729
+        },
+        "result": "Optimization result: 3008.0 MB",
+        "processing_time": 165.9730839729309
+    },
+    {
+        "payload": {
+            "n": 2453
+        },
+        "result": "Optimization result: 146.0 MB",
+        "processing_time": 90.3101692199707
+    },
+    {
+        "payload": {
+            "n": 6699
+        },
+        "result": "",
+        "processing_time": 17.267754793167114
+    },
+    {
+        "payload": {
+            "n": 5980
+        },
+        "result": "Optimization result: 3008.0 MB",
+        "processing_time": 375.7695527076721
+    },
+    {
+        "payload": {
+            "n": 524
+        },
+        "result": "Optimization result: 2128.0 MB",
+        "processing_time": 55.466973304748535
+    },
+    {
+        "payload": {
+            "n": 3754
+        },
+        "result": "Optimization result: 2340.0 MB",
+        "processing_time": 170.80786895751953
+    },
+    {
+        "payload": {
+            "n": 4852
+        },
+        "result": "Optimization result: 3008.0 MB",
+        "processing_time": 281.58300852775574
+    },
+    {
+        "payload": {
+            "n": 8715
+        },
+        "result": "",
+        "processing_time": 23.63996648788452
+    },
+    {
+        "payload": {
+            "n": 6091
+        },
+        "result": "",
+        "processing_time": 113.16009140014648
+    },
+    {
+        "payload": {
+            "n": 6820
+        },
+        "result": "",
+        "processing_time": 23.605273962020874
+    },
+    {
+        "payload": {
+            "n": 6366
+        },
+        "result": "",
+        "processing_time": 122.33409118652344
+    },
+    {
+        "payload": {
+            "n": 6798
+        },
+        "result": "",
+        "processing_time": 23.342002391815186
+    },
+    {
+        "payload": {
+            "n": 7633
+        },
+        "result": "",
+        "processing_time": 24.674532890319824
+    },
+    {
+        "payload": {
+            "n": 7512
+        },
+        "result": "",
+        "processing_time": 23.610135793685913
+    },
+    {
+        "payload": {
+            "n": 8966
+        },
+        "result": "",
+        "processing_time": 23.813183784484863
+    },
+    {
+        "payload": {
+            "n": 1106
+        },
+        "result": "Optimization result: 2268.0 MB",
+        "processing_time": 61.49686932563782
+    },
+    {
+        "payload": {
+            "n": 8085
+        },
+        "result": "",
+        "processing_time": 24.10495901107788
+    },
+    {
+        "payload": {
+            "n": 3166
+        },
+        "result": "Optimization result: 2186.0 MB",
+        "processing_time": 127.04392313957214
+    },
+    {
+        "payload": {
+            "n": 8538
+        },
+        "result": "",
+        "processing_time": 23.901153564453125
+    },
+    {
+        "payload": {
+            "n": 3954
+        },
+        "result": "Optimization result: 2372.0 MB",
+        "processing_time": 161.99865102767944
+    }
+]

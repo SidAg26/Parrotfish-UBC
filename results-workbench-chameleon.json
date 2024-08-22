@@ -1,0 +1,162 @@
+[
+    {
+        "payload": {
+            "num_of_rows": 6281,
+            "num_of_cols": 25
+        },
+        "result": "Optimization result: 1458.0 MB",
+        "processing_time": 87.65601015090942
+    },
+    {
+        "payload": {
+            "num_of_rows": 5752,
+            "num_of_cols": 25
+        },
+        "result": "Optimization result: 1388.0 MB",
+        "processing_time": 85.60779523849487
+    },
+    {
+        "payload": {
+            "num_of_rows": 6590,
+            "num_of_cols": 25
+        },
+        "result": "Optimization result: 1465.0 MB",
+        "processing_time": 90.24732732772827
+    },
+    {
+        "payload": {
+            "num_of_rows": 1158,
+            "num_of_cols": 25
+        },
+        "result": "Optimization result: 1372.0 MB",
+        "processing_time": 58.18452715873718
+    },
+    {
+        "payload": {
+            "num_of_rows": 1281,
+            "num_of_cols": 25
+        },
+        "result": "Optimization result: 1422.0 MB",
+        "processing_time": 58.89166021347046
+    },
+    {
+        "payload": {
+            "num_of_rows": 425,
+            "num_of_cols": 25
+        },
+        "result": "Optimization result: 1550.0 MB",
+        "processing_time": 53.73466873168945
+    },
+    {
+        "payload": {
+            "num_of_rows": 5230,
+            "num_of_cols": 25
+        },
+        "result": "Optimization result: 1623.0 MB",
+        "processing_time": 84.07810616493225
+    },
+    {
+        "payload": {
+            "num_of_rows": 8445,
+            "num_of_cols": 25
+        },
+        "result": "Optimization result: 1634.0 MB",
+        "processing_time": 102.07931447029114
+    },
+    {
+        "payload": {
+            "num_of_rows": 478,
+            "num_of_cols": 25
+        },
+        "result": "Optimization result: 1443.0 MB",
+        "processing_time": 54.115350008010864
+    },
+    {
+        "payload": {
+            "num_of_rows": 1535,
+            "num_of_cols": 25
+        },
+        "result": "Optimization result: 2014.0 MB",
+        "processing_time": 59.00746417045593
+    },
+    {
+        "payload": {
+            "num_of_rows": 5766,
+            "num_of_cols": 25
+        },
+        "result": "Optimization result: 1572.0 MB",
+        "processing_time": 87.51403737068176
+    },
+    {
+        "payload": {
+            "num_of_rows": 455,
+            "num_of_cols": 25
+        },
+        "result": "Optimization result: 1301.0 MB",
+        "processing_time": 53.39706325531006
+    },
+    {
+        "payload": {
+            "num_of_rows": 5000,
+            "num_of_cols": 25
+        },
+        "result": "Optimization result: 1472.0 MB",
+        "processing_time": 78.13809823989868
+    },
+    {
+        "payload": {
+            "num_of_rows": 7745,
+            "num_of_cols": 25
+        },
+        "result": "Optimization result: 1430.0 MB",
+        "processing_time": 95.8928599357605
+    },
+    {
+        "payload": {
+            "num_of_rows": 6842,
+            "num_of_cols": 25
+        },
+        "result": "Optimization result: 1484.0 MB",
+        "processing_time": 101.62835001945496
+    },
+    {
+        "payload": {
+            "num_of_rows": 1895,
+            "num_of_cols": 25
+        },
+        "result": "Optimization result: 1422.0 MB",
+        "processing_time": 59.91401672363281
+    },
+    {
+        "payload": {
+            "num_of_rows": 7013,
+            "num_of_cols": 25
+        },
+        "result": "Optimization result: 1398.0 MB",
+        "processing_time": 91.29111170768738
+    },
+    {
+        "payload": {
+            "num_of_rows": 2898,
+            "num_of_cols": 25
+        },
+        "result": "Optimization result: 1489.0 MB",
+        "processing_time": 66.52054262161255
+    },
+    {
+        "payload": {
+            "num_of_rows": 1323,
+            "num_of_cols": 25
+        },
+        "result": "Optimization result: 1538.0 MB",
+        "processing_time": 57.77660369873047
+    },
+    {
+        "payload": {
+            "num_of_rows": 3396,
+            "num_of_cols": 25
+        },
+        "result": "Optimization result: 2000.0 MB",
+        "processing_time": 75.67163419723511
+    }
+]

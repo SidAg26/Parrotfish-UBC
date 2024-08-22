@@ -1,0 +1,170 @@
+[
+    {
+        "payload": {
+            "length_of_message": 772,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1459.0 MB",
+        "processing_time": 54.15812110900879
+    },
+    {
+        "payload": {
+            "length_of_message": 772,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1419.0 MB",
+        "processing_time": 53.24709677696228
+    },
+    {
+        "payload": {
+            "length_of_message": 6719,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1460.0 MB",
+        "processing_time": 78.59800744056702
+    },
+    {
+        "payload": {
+            "length_of_message": 8118,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1459.0 MB",
+        "processing_time": 89.68558478355408
+    },
+    {
+        "payload": {
+            "length_of_message": 5203,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1530.0 MB",
+        "processing_time": 75.3099377155304
+    },
+    {
+        "payload": {
+            "length_of_message": 948,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1511.0 MB",
+        "processing_time": 55.251049280166626
+    },
+    {
+        "payload": {
+            "length_of_message": 4866,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1469.0 MB",
+        "processing_time": 71.37494468688965
+    },
+    {
+        "payload": {
+            "length_of_message": 8507,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1438.0 MB",
+        "processing_time": 89.20298361778259
+    },
+    {
+        "payload": {
+            "length_of_message": 6408,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1454.0 MB",
+        "processing_time": 79.25301361083984
+    },
+    {
+        "payload": {
+            "length_of_message": 5739,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1480.0 MB",
+        "processing_time": 74.96662759780884
+    },
+    {
+        "payload": {
+            "length_of_message": 3076,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1441.0 MB",
+        "processing_time": 63.32989764213562
+    },
+    {
+        "payload": {
+            "length_of_message": 2694,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1474.0 MB",
+        "processing_time": 62.54336643218994
+    },
+    {
+        "payload": {
+            "length_of_message": 8676,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1458.0 MB",
+        "processing_time": 87.82399773597717
+    },
+    {
+        "payload": {
+            "length_of_message": 8168,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1438.0 MB",
+        "processing_time": 85.04785871505737
+    },
+    {
+        "payload": {
+            "length_of_message": 4221,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1507.0 MB",
+        "processing_time": 75.13815641403198
+    },
+    {
+        "payload": {
+            "length_of_message": 870,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1375.0 MB",
+        "processing_time": 55.44394612312317
+    },
+    {
+        "payload": {
+            "length_of_message": 8389,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1523.0 MB",
+        "processing_time": 85.33689665794373
+    },
+    {
+        "payload": {
+            "length_of_message": 8627,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1496.0 MB",
+        "processing_time": 84.83291244506836
+    },
+    {
+        "payload": {
+            "length_of_message": 3116,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1452.0 MB",
+        "processing_time": 63.88627743721008
+    },
+    {
+        "payload": {
+            "length_of_message": 3018,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1934.0 MB",
+        "processing_time": 61.068392276763916
+    },
+    {
+        "payload": {
+            "length_of_message": 172,
+            "num_of_iterations": 10
+        },
+        "result": "Optimization result: 1186.0 MB",
+        "processing_time": 49.96956491470337
+    }
+]
